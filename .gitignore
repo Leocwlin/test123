@@ -1,0 +1,15 @@
+﻿################################################################################
+# 這個 .gitignore 檔案由 Microsoft(R) Visual Studio 自動建立。
+################################################################################
+
+/.vs/VSWorkspaceState.json
+/.vs/slnx.sqlite
+/.vs/test123/v17/DocumentLayout.json
+/.vs/test123/v17/.wsuo
+/.vs/test123/FileContentIndex/d9480929-6ade-4ed4-a015-f1cc968da562.vsidx
+/.vs/test123/FileContentIndex/d35047c5-3b9f-4955-b024-36b9d2582d8c.vsidx
+/.vs/test123/FileContentIndex/3c00d3b8-36d4-47c8-931a-bd3dbaa55149.vsidx
+/.vs/test123/FileContentIndex/373e32fa-a7e4-4280-b425-d3794e1c4b68.vsidx
+/.vs/test123/FileContentIndex/8c471a88-0dcd-4948-b58b-24fefd4f5710.vsidx
+/.vs/test123/FileContentIndex/4937fdff-3f98-4280-8786-4c4666ccf913.vsidx
+/.vs/test123/FileContentIndex
